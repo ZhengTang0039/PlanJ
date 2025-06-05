@@ -1,0 +1,9 @@
+title: 我的知识站
+description: 分享技术、生活、学习笔记
+theme: just-the-docs
+
+# GitHub Pages 需要这个，避免用默认的 Jekyll 插件
+plugins: []
+
+# 如果你部署在子路径（如 yourname.github.io/my-repo/），需设置：
+# baseurl: "/my-repo"
