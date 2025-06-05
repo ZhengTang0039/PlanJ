@@ -1,9 +1,8 @@
-title: 我的知识站
-description: 分享技术、生活、学习笔记
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-# GitHub Pages 需要这个，避免用默认的 Jekyll 插件
-plugins: []
+url: https://just-the-docs.github.io
 
-# 如果你部署在子路径（如 yourname.github.io/my-repo/），需设置：
-# baseurl: "/my-repo"
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
